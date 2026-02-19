@@ -54,7 +54,7 @@ Your support motivates me to create more educational projects and helps others d
 
 
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 **Pacifique Harerimana**  
 AUCA Student - Mobile Programming Quiz Four
 
