@@ -55,7 +55,8 @@ Your support motivates me to create more educational projects and helps others d
 
 ### 👨‍💻 Author
 **Pacifique Harerimana**  
-AUCA Student - Mobile Programming Quiz Four 
+AUCA Student - Mobile Programming Quiz Four
+
 📧 Contact: [GitHub](https://github.com/Pacifique16)
 
 ---
