@@ -26,16 +26,16 @@ Android application for managing apartment listings with SQLite database.
 ## Screenshots
 
 ### Inserting Data
-![Inserting Data](images/inserting%20data.png)
+<img src="images/inserting%20data.png" width="300">
 
 ### Displaying All Apartments
-![Displaying Apartments](images/displaying%20all%20partments%20details.png)
+<img src="images/displaying%20all%20partments%20details.png" width="300">
 
 ### Editing Apartment Details
-![Editing Apartment](images/editing%20apartment%20details.png)
+<img src="images/editing%20apartment%20details.png" width="300">
 
 ### Confirming Deletion
-![Confirming Deletion](images/confirming%20to%20deleting%20apartment.png)
+<img src="images/confirming%20to%20deleting%20apartment.png" width="300">
 
 ## Author
 Pacifique Harerimana
