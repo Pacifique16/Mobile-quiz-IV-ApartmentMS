@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etUnitNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Unit Number"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etSquareFootage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Square Footage"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/etRentAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Rent Amount"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/etLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Location"
+        android:inputType="text" />
+
+    <CheckBox
+        android:id="@+id/cbIsAirBnb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Is AirBnb" />
+
+    <CheckBox
+        android:id="@+id/cbAllowsPets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Allows Pets" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
