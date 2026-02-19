@@ -23,5 +23,19 @@ Android application for managing apartment listings with SQLite database.
 - Allows Pets (Boolean)
 - Location
 
+## Screenshots
+
+### Inserting Data
+![Inserting Data](images/inserting%20data.png)
+
+### Displaying All Apartments
+![Displaying Apartments](images/displaying%20all%20partments%20details.png)
+
+### Editing Apartment Details
+![Editing Apartment](images/editing%20apartment%20details.png)
+
+### Confirming Deletion
+![Confirming Deletion](images/confirming%20to%20deleting%20apartment.png)
+
 ## Author
 Pacifique Harerimana
