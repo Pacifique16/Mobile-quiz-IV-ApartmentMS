@@ -37,13 +37,14 @@ Android application for managing apartment listings with SQLite database.
 ### Confirming Deletion
 <img src="images/confirming%20to%20deleting%20apartment.png" width="300">
 
+
 ## 📝 License
 
-© Copyright 2025 Pacifique Harerimana
+© Copyright 2026 Pacifique Harerimana
 
 This project is for educational purposes as part of AUCA Mobile Programming coursework. Feel free to fork and learn from it, but please give credit where it's due.
 
----
+
 
 ## ⭐ Show Your Support
 
@@ -51,7 +52,7 @@ This project is for educational purposes as part of AUCA Mobile Programming cour
 
 Your support motivates me to create more educational projects and helps others discover useful resources.
 
----
+
 
 ### 👨‍💻 Author
 **Pacifique Harerimana**  
